@@ -4,4 +4,4 @@
 *Deneme metni* <== italik<br/>
 _Deneme metni_ <== italik<br/>
 ***Deneme metni*** <== italik ve bold<br/>
-![Github](https://cdn.pixabay.com/photo/2013/07/12/19/25/github-154769_1280.png)
+![Github](https://cdn.pixabay.com/photo/2013/07/12/19/25/github-154769_1280.png)'''return 0;'''
