@@ -3,4 +3,4 @@
 **Deneme metni** <== bold<br/>
 *Deneme metni* <== italik<br/>
 _Deneme metni_ <== italik<br/>
-** *Deneme metni* ** <== italik ve bold<br/>
+***Deneme metni*** <== italik ve bold<br/>
