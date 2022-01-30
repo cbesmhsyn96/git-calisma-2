@@ -1,2 +1,7 @@
+master içeriği
 safsdfsdafsdg
 Bu içerik master tarafından eklendi.
+----------------------------------------
+yenibranch içeriği
+bu içerik yenibranch tarafından eklendi.
+yenibranchyenibranchyenibranch
