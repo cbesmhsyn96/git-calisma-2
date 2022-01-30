@@ -2,7 +2,7 @@
 ## Bu daha küçük bir punto. <br /> ##
 **Diğer hesabım ==> [huseyinakcan0x](https://github.com/huseyinakcan0x)**<br />
 ***Bir Linux kullanıcısı ve öğrencisi olarak tabi ki git i de seviyorum ve öğreniyorum.***<br />
-'''Console.log("JavaScript önemli.");'''<br />
+```Console.log("JavaScript önemli.");```<br />
 >C is Sea<br />
 _Bu da sade italik yazı._<br />
 Bu da link ===> [YouTube](https://www.youtube.com/)<br />
