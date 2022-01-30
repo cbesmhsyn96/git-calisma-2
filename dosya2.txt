@@ -1,1 +1,2 @@
-		İçerik dosya2.txt
+İçerik dosya2.txt
+değişiklik master
