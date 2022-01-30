@@ -1,11 +1,2 @@
-<<<<<<< HEAD
 safsdfsdafsdg
-
-
-asdasaAd master değişikliği
-||||||| 7a9615d
-safsdfsdafsdg
-=======
-safsdfsdafsdg
-bu içerik yenibranch tarafından eklendi.
->>>>>>> yenibranch
+Bu içerik master tarafından eklendi.
