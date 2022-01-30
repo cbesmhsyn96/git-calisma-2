@@ -1,1 +1,5 @@
-		İçerik dosya2.txt
+İçerik dosya2.txt
+
+
+
+Bu değişiklik yenibranch tarafından yapıldı.
