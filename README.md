@@ -1,4 +1,4 @@
-#Burası git çalışma repository si dir.# <br />
+# Burası git çalışma repository si dir.# <br />
 ## Bu daha küçük bir punto. ## <br />
 **Diğer hesabım ==> [huseyinakcan0x](https://github.com/huseyinakcan0x)**<br />
 ***Bir Linux kullanıcısı ve öğrencisi olarak tabi ki git i de seviyorum ve öğreniyorum.***<br />
