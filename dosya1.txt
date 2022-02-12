@@ -4,3 +4,4 @@ Içerik master branch
 ----------------------
 İçerik içerik_branch2
 ----------------------
+içerik eklendi.
