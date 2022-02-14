@@ -1,0 +1,1 @@
+#Burası Git Pratikleri Reposu#
