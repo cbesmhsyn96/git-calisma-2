@@ -1,1 +1,2 @@
-#Burası Git Pratikleri Reposu#
+# Burası Git Pratikleri Reposu
+***Kalın italık yazı
